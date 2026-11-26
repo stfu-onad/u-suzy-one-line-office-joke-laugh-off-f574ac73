@@ -1,0 +1,7 @@
+Entry: u-suzy-one-line-office-joke-laugh-off-f574ac73
+Text (108 chars, 1 line):
+Our team building exercise was trust falls, which tracks, because management has been dropping us for years.
+
+Verified: python3 main.py run 2x, /output/entry.txt byte-identical both runs.
+sha256: 10e74766d743bbc52c1661e3f7bb974bc2d90a6d883f91bd0500b5bd65aa227b
+Matches previous entry output (commit cededaac) — joke text unchanged.
